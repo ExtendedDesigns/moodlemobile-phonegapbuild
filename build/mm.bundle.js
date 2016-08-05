@@ -7779,7 +7779,7 @@ angular.module('mm.core.login', [])
         templateUrl: 'core/components/login/templates/credentials.html',
         controller: 'mmLoginCredentialsCtrl',
         params: {
-            siteurl: '',
+            siteurl: 'https://classroom.collegesa.co.za',
             username: '',
             urltoopen: ''
         },
@@ -7795,7 +7795,7 @@ angular.module('mm.core.login', [])
         controller: 'mmLoginReconnectCtrl',
         cache: false,
         params: {
-            siteurl: '',
+            siteurl: 'https://classroom.collegesa.co.za',
             username: '',
             infositeurl: ''
         }
