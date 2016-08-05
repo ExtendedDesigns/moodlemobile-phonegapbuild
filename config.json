@@ -8,6 +8,7 @@
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
     "siteurl": "https://classroom.collegesa.co.za",
+    "presets" : {"url": "https://classroom.collegesa.co.za", "username": ""},
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile"
 }
