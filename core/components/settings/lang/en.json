@@ -1,6 +1,6 @@
 {
     "about": "About",
-    "appname": "CollegeSA Classroom {{version}}",
+    "appname": "Moodle Mobile {{version}}",
     "appready": "App ready",
     "cacheexpirationtime": "Cache expiration time (miliseconds)",
     "cordovadevicemodel": "Cordova Device model",
