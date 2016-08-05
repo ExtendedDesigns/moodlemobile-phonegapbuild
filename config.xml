@@ -2,16 +2,16 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
-        versionCode = "2014"
+        id        = "za.co.collegesa.classroom"
+        versionCode = "2016"
         version   = "3.1.2">
-    <name>Moodle Mobile</name>
+    <name>CollegeSA Classroom</name>
 
     <description>
-        Moodle Mobile official app
+        Official CollegeSA Classroom Moodle App
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
+    <author href="http://collegesa.co.za" email="darek@collegesa.co.za">
         Moodle Pty Ltd
     </author>
 
